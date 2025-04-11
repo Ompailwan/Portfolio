@@ -3,6 +3,7 @@ package PA03;
 /*Audience class to perform manipulations on Ticket class objects*/
 public class Audience implements Comparable<Audience> {
 
+	//
 	/* Instance variable declaration*/
 	private String name;
 	private Ticket ticket;
